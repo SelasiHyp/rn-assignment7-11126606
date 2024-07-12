@@ -61,8 +61,8 @@ The app includes three primary screens accessible via a drawer for easy navigati
 
 
 # Screenshots
-![alt text](myProject/assets/Screenshot/shot1.jfif) 
-![alt text](myProject/assets/Screenshot/shot2.jfif)
-![alt text](myProject/assets/Screenshot/shot3.jfif)
-![alt text](myProject/assets/Screenshot/shot4.jfif)
-![alt text](myProject/assets/Screenshot/shot5.jfif)
+![alt text](myProject/assets/Screenshot/shot1.jpeg) 
+![alt text](myProject/assets/Screenshot/shot2.jpeg)
+![alt text](myProject/assets/Screenshot/shot3.jpeg)
+![alt text](myProject/assets/Screenshot/shot4.jpeg)
+![alt text](myProject/assets/Screenshot/shot5.jpeg)
