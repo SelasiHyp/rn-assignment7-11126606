@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "rn-assignment6-11015722",
+    "slug": "rn-assignment6-11015722",
+    "version": "1.0.0",
+    "assetBundlePatterns": "./assets/icon.png",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}
